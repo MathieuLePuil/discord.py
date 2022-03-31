@@ -47,7 +47,7 @@ Pour créer le bot, rendez-vous sur votre portail développeur discord.
 
 • `Portail développeur` : https://discord.com/developers/applications <br><br>
 
-####Étapes de création d'un bot :
+###Étapes de création d'un bot :
 
 - Cliquez sur le bouton `New Application` <br>
 <img src="https://poshbot.readthedocs.io/en/latest/guides/backends/discord-new-application.png" alt="MathieuLePuil" width="400px"/>

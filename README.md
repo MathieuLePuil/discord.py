@@ -1,6 +1,6 @@
 <h1 align="center">Bonjour, je suis Mathieu Le Puil</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=D%C3%A9veloppeur+de+Bot+Discord"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=D%C3%A9veloppeur+de+Bot+Discord">
 </p>
 
 <br>

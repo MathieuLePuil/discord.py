@@ -49,15 +49,15 @@ Pour créer le bot, rendez-vous sur votre portail développeur discord.
 
 ###Étapes de création d'un bot :
 
-- Cliquez sur le bouton `New Application` <br>
-<img src="https://poshbot.readthedocs.io/en/latest/guides/backends/discord-new-application.png" alt="MathieuLePuil" width="400px"/>
-- Donner un nom à votre bot puis cliquez sur `Create`
-- Vous pouvez ensuite lui ajouter une image (optionnel) dans le rectangle `APP ICON`
-- Rendez-vous ensuite dans l'onglet `Bot` sur la gauche
-- Cliquez sur `Add Bot` puis `Yes, do it !` <br>
-<img src="https://images.ctfassets.net/a364c9khexw9/3mNda83bysuztw0cWp2lQr/ad952489adb2cab6716efedfc3326c0b/Screen_Shot_2020-09-12_at_2.35.29_AM.png" alt="MathieuLePuil" width="400px"/>
-- Cliquez sur `Reset Token` et gardez-le de côté pour le moment
-- Descendez sur la page et cochez le bouton `Presence Intent`
+• Cliquez sur le bouton `New Application` <br>
+<img src="https://poshbot.readthedocs.io/en/latest/guides/backends/discord-new-application.png" alt="MathieuLePuil" width="400px"/> <br>
+• Donner un nom à votre bot puis cliquez sur `Create` <br>
+• Vous pouvez ensuite lui ajouter une image (optionnel) dans le rectangle `APP ICON` <br>
+• Rendez-vous ensuite dans l'onglet `Bot` sur la gauche <br>
+• Cliquez sur `Add Bot` puis `Yes, do it !` <br>
+<img src="https://images.ctfassets.net/a364c9khexw9/3mNda83bysuztw0cWp2lQr/ad952489adb2cab6716efedfc3326c0b/Screen_Shot_2020-09-12_at_2.35.29_AM.png" alt="MathieuLePuil" width="400px"/> <br>
+• Cliquez sur `Reset Token` et gardez-le de côté pour le moment <br>
+• Descendez sur la page et cochez le bouton `Presence Intent` <br>
 
 Vous pouvez ensuite désactiver la case `Public Bot` afin que personne ne puisse l'ajouter sur son serveur sans votre autorisation.
 

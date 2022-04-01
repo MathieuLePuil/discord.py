@@ -69,7 +69,7 @@ Vous n'avez pas compris un point dans l'installation, la création du bot ou dan
 
 Vous pouvez également me suggérer des fonctionnalités de Discord afin que j'agrémente le GitHub.
 
-###👏 Bravo, vous venez de créer votre Bot Discord. Nous verrons dans la prochaine leçon comment créer notre première commande avec ou sans argument.
+### 👏 Bravo, vous venez de créer votre Bot Discord. Nous verrons dans la prochaine leçon comment créer notre première commande avec ou sans argument.
 
 ---
 

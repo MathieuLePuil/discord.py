@@ -61,6 +61,16 @@ Pour créer le bot, rendez-vous sur votre portail développeur discord.
 
 Vous pouvez ensuite désactiver la case `Public Bot` afin que personne ne puisse l'ajouter sur son serveur sans votre autorisation.
 
+Maintenant il vous reste simplement à suivre le code présent dans `main.py`. "Main" signifie "principal". Cela montre le fichier qui contient la racine du bot. Vous pouver le nommer comme vous le souhaitez. Le nom "*main*" est tout de même fortement recommandé.
+
+## ❓ Besoin d'aide ?
+
+Vous n'avez pas compris un point dans l'installation, la création du bot ou dans le code ? N'hésitez pas à faire un tour sur mon serveur Discord puis de vous rendre dans `#❓〡aide-discordpy` et ouvrez un ticket gâce au bouton.
+
+Vous pouvez également me suggérer des fonctionnalités de Discord afin que j'agrémente le GitHub.
+
+###👏 Bravo, vous venez de créer votre Bot Discord. Nous verrons dans la prochaine leçon comment créer notre première commande avec ou sans argument.
+
 ---
 
 Crédits: [Mathieu Le Puil](https://github.com/MathieuLePuil)

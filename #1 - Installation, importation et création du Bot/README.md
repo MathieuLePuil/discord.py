@@ -71,7 +71,7 @@ Vous pouvez également me suggérer des fonctionnalités de Discord afin que j'a
 
 • `Mon discord` : https://discord.gg/EHbdMS9
 
-### 👏 Bravo, vous venez de créer votre Bot Discord. Nous verrons dans la prochaine leçon comment créer notre première commande avec ou sans argument.
+### 👏 Bravo, vous venez de créer votre Bot Discord. Nous verrons dans la prochaine leçon comment créer notre première commande.
 
 *Prochain cours le jeudi 7 Avril.*
 

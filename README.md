@@ -20,7 +20,7 @@ Je suis actuellement étudiant en BUT Métiers du Multimédia et de l'Internet �
 
 J'ai commencé le développement Python comme la plupart des personnes, à l'école secondaire. Nous y avons consacré peu de temps pour permettre de créer des programmes sofistiqués. Je me suis donc replongé dedans par moi-même durant le premier confinement de 2020. Mon objectif était de créer un Bot Discord avec Python. Depuis, je n'ai fais que progressé et je suis en capacité de faire des programmes adaptés à toute demande.
 
-Aujourd'hui, j'ai décidé de partager ma passion : le développement. Et pour ça, j'ai pris l'initiative de créer un répertoire Github dans lequel seront disponible une panoplie de code simplifié pour chaque action possible dans un bot Discord. Vous pourrez suivre ce "cours" en ligne afin de créer vou-même votre propre bot Discord en Python.
+Aujourd'hui, j'ai décidé de partager ma passion : le développement. Et pour ça, j'ai pris l'initiative de créer un répertoire Github dans lequel seront disponible une panoplie de code simplifié pour chaque action possible dans un bot Discord. Vous pourrez suivre ce "cours" en ligne afin de créer vous-même votre propre bot Discord en Python.
 
 ---
 

@@ -63,6 +63,17 @@ Vous pouvez ensuite désactiver la case `Public Bot` afin que personne ne puisse
 
 Maintenant il vous reste simplement à suivre le code présent dans `main.py`. "Main" signifie "principal". Cela montre le fichier qui contient la racine du bot. Vous pouver le nommer comme vous le souhaitez. Le nom "*main*" est tout de même fortement recommandé.
 
+Une fois que le code est copié, revenez ici.
+
+## ➕ Ajouter le bot sur votre serveur
+
+• Rendez-vous dans l'onglet `OAuth2` du portail développeur. <br>
+• Cliquez ensuite sur `URL Generator` <br>
+• Dans l'onglet `SCOPES`, sélectionnez `bot` <br>
+• Dans l'onglet `BOT PERMISSIONS`, sélectionnez les permissions que vous souhaitez que le bot ait sur votre serveur (ici administrateur soit toutes les permisions) <br>
+• Copiez le lien en bas de la page puis collez-le dans votre navigateur. Suivez ensuite les instructions d'installation de Discord.
+![img.png](img.png)
+
 ## ❓ Besoin d'aide ?
 
 Vous n'avez pas compris un point dans l'installation, la création du bot ou dans le code ? N'hésitez pas à faire un tour sur mon serveur Discord puis de vous rendre dans `#❓〡aide-discordpy` et ouvrez un ticket gâce au bouton.

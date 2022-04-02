@@ -77,4 +77,5 @@ Vous pouvez également me suggérer des fonctionnalités de Discord afin que j'a
 
 ---
 
-Crédits: [Mathieu Le Puil](https://github.com/MathieuLePuil)
+Crédits: [Mathieu Le Puil](https://github.com/MathieuLePuil) <br>
+Me soutenir : [Patreon](https://www.patreon.com/mathieulp)

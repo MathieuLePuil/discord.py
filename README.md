@@ -24,4 +24,5 @@ Aujourd'hui, j'ai décidé de partager ma passion : le développement. Et pour �
 
 ---
 
-Crédits: [Mathieu Le Puil](https://github.com/MathieuLePuil)
+Crédits: [Mathieu Le Puil](https://github.com/MathieuLePuil) <br>
+Me soutenir : [Patreon](https://www.patreon.com/mathieulp)

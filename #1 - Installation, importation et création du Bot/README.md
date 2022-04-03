@@ -38,6 +38,9 @@ py -3 -m pip install -U git+https://github.com/Rapptz/discord.py
 ```commandline
 python3 -m pip install -U git+https://github.com/Rapptz/discord.py
 ```
+<br>
+
+• `Documentation Discord.py` : https://discordpy.readthedocs.io/en/stable/
 
 <br>
 

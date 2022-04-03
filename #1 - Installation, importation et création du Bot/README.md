@@ -36,7 +36,7 @@ py -3 -m pip install -U git+https://github.com/Rapptz/discord.py
 #### 💻 MacOS / 🐧 Linux
 
 ```commandline
-python3 -m pip install -U discord.py
+python3 -m pip install -U git+https://github.com/Rapptz/discord.py
 ```
 
 <br>

@@ -7,7 +7,6 @@
 
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=MathieuLePuil&label=Nombre%20de%20vues&color=0e75b6&style=plastic" alt="MathieuLePuil" />
-	
 </p>
 
 ## 👨🏼‍💼 Mon profil

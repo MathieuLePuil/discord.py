@@ -1,13 +1,12 @@
 <h1 align="center">Bonjour, je suis Mathieu Le Puil</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=D%C3%A9veloppeur+de+Bot+Discord">
+	<img src="https://readme-typing-svg.herokuapp.com?lines=D%C3%A9veloppeur+de+Bot+Discord">
 </p>
 
 <br>
 
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=MathieuLePuil&label=Nombre%20de%20vues&color=0e75b6&style=plastic" alt="MathieuLePuil" />
-	
 </p>
 
 ## 👨🏼‍💼 Mon profil

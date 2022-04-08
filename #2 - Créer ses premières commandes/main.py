@@ -19,4 +19,4 @@ async def latence(ctx):
     await ctx.send(f"**La latence du bot est de `{round(bot.latency * 1000)}ms`.**")  # on envoie le ping (ici en ms et arrondi) dans le salon où on a exécuté la commande. Le f avant les guillemets est indispensable pour entrer des valeurs entre accolades (ici la latence)
 
 
-bot.run("NzM2MjE5Njg1MTQxNjEwNTE2.XxroAw.kXQrZRbYGQ0PW-S_OLbEVML3Fms")
+bot.run("TOKEN")

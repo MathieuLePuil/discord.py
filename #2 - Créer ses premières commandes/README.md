@@ -28,15 +28,14 @@ Si vous avez une erreur, comparez le code avec celui du GitHub. Si il persiste, 
 
 ## ❓ Besoin d'aide ?
 
-Vous n'avez pas compris un point dans l'installation, la création du bot ou dans le code ? N'hésitez pas à faire un tour sur mon serveur Discord puis de vous rendre dans `#❓〡aide-discordpy` et ouvrez un ticket gâce au bouton.
+Vous n'avez pas compris un point dans le code ? N'hésitez pas à faire un tour sur mon serveur Discord puis de vous rendre dans `#❓〡aide-discordpy` et ouvrez un ticket gâce au bouton.
 
 Vous pouvez également me suggérer des fonctionnalités de Discord afin que j'agrémente le GitHub.
 
 • `Mon discord` : https://discord.gg/EHbdMS9
 
-### 👏 Bravo, vous venez de créer votre Bot Discord. Nous verrons dans la prochaine leçon comment créer notre première commande.
+### 👏 Bravo, vous venez de créer votre Bot Discord. Nous verrons dans la prochaine leçon comment ajouter des permissions aux commandes et mettre des paramètres.
 
-*Prochain cours le jeudi 7 Avril.*
 
 ---
 

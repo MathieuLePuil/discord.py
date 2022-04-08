@@ -34,7 +34,7 @@ Vous pouvez également me suggérer des fonctionnalités de Discord afin que j'a
 
 • `Mon discord` : https://discord.gg/EHbdMS9
 
-### 👏 Bravo, vous venez de créer votre Bot Discord. Nous verrons dans la prochaine leçon comment ajouter des permissions aux commandes et mettre des paramètres.
+### 👏 Bravo, vous venez de créer vos premières commandes. Nous verrons dans la prochaine leçon comment ajouter des permissions aux commandes et mettre des paramètres.
 
 
 ---

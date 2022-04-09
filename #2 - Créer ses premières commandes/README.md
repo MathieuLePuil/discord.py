@@ -21,9 +21,9 @@ Une fois le code recopié, vous allez pouvoir tester les deux commandes. Rendez-
 • `>test` ⇨ ***Le test est validé !*** <br>
 • `>latence` ⇨ *Renvoie la latence du bot*
 
-*PS :* Si vous avez changé le prefix, ne mettez pas ">" mais bien celui qui bvous avez paramétré.
+*PS :* Si vous avez changé le prefix, ne mettez pas ">" mais bien celui qui vous avez paramétré.
 
-Si vous avez une erreur, comparez le code avec celui du GitHub. Si il persiste, rendez-vous sur mon serveur Discord ci-dessous.
+Si vous avez une erreur, comparez le code avec celui du GitHub. S'il persiste, rendez-vous sur mon serveur Discord ci-dessous.
 
 
 ## ❓ Besoin d'aide ?

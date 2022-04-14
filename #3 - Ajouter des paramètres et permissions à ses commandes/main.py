@@ -15,7 +15,7 @@ async def coucou(ctx, *, pseudo): # on rajoute entre parenthèse le(s) paramètr
 
 
 @bot.command()
-@commands.has_permissions(kick_members = True)
+@commands.has_permissions(kick_members = True) # donne la permission de faire la commande à toutes les personnes qui peuvent expulser des utilisateurs du serveur
 async def modo(ctx):
     await ctx.send("Vous avez la permission !")
 

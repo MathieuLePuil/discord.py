@@ -20,4 +20,4 @@ async def embed(ctx, pseudo, age):
     await ctx.send(embed = embed) # envoie l'embed dans le salon dans lequelle on a fait la commande
 
 
-bot.run("TOKENA")
+bot.run("TOKEN")

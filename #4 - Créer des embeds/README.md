@@ -33,10 +33,10 @@ Vous pouvez également me suggérer des fonctionnalités de Discord afin que j'a
 
 • `Mon discord` : https://discord.gg/EHbdMS9
 
-### 👏 Bravo, vous venez d'ajouter des paramètres à vos commandes et y avez fixé des permissions. Dans la prochaine leçon, nous verrons comment créer des embeds.
+### 👏 Bravo, vous venez de créer vos premiers embeds. Dans la prochaine leçon, nous verrons comment attendre des réponses aux messages du bot.
 
 
 ---
 
-Crédits: [Mathieu Le Puil](https://github.com/MathieuLePuil) <br>
-Patreon: [MathieuLP](https://www.patreon.com/mathieulp)
+Crédits : [Mathieu Le Puil](https://github.com/MathieuLePuil) <br>
+Patreon : [MathieuLP](https://www.patreon.com/mathieulp)

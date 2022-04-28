@@ -23,7 +23,7 @@ Une fois le code recopié, vous allez pouvoir tester les deux commandes. Rendez-
 
 *PS :* Si vous avez changé le prefix, ne mettez pas ">" mais bien celui qui bvous avez paramétré.
 
-Si vous avez une erreur, comparez le code avec celui du GitHub. Si il persiste, rendez-vous sur mon serveur Discord ci-dessous.
+Si vous avez une erreur, comparez le code avec celui du GitHub. S'il persiste, rendez-vous sur mon serveur Discord ci-dessous.
 
 
 ## ❓ Besoin d'aide ?
@@ -39,5 +39,5 @@ Vous pouvez également me suggérer des fonctionnalités de Discord afin que j'a
 
 ---
 
-Crédits: [Mathieu Le Puil](https://github.com/MathieuLePuil)
-Patreon: [MathieuLP](https://www.patreon.com/mathieulp)
+Crédits : [Mathieu Le Puil](https://github.com/MathieuLePuil)
+Patreon : [MathieuLP](https://www.patreon.com/mathieulp)

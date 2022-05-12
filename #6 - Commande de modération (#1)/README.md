@@ -1,4 +1,4 @@
-<h1 align="center">#5 - Attendre des réponses</h1>
+<h1 align="center">#6 - Commande de modération (#1)</h1>
 
 <br>
 

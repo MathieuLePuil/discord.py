@@ -16,13 +16,13 @@ Vous pouvez donc dès à présent copier le code du `main.py` (je vous conseille
 
 ## ⚙ Test des commandes
 
-Une fois le code recopié, vous allez pouvoir tester les deux commandes. Rendez-vous donc sur un serveur discord où vous avez installé votre Bot *(voir cours n°1)*. Vous pourrez ensuite, dans n'importe quel salon, entrer les commandes.
+Une fois le code recopié, vous allez pouvoir tester la commande. Rendez-vous donc sur un serveur discord où vous avez installé votre Bot *(voir cours n°1)*. Vous pourrez ensuite, dans n'importe quel salon, entrer la commande.
 
 • `>embed <pseudo> <age>` ⇨ ***Envoie un embed avec les informations de la personne*** <br>
 
 *PS :* Si vous avez changé le prefix, ne mettez pas ">" mais bien celui qui bvous avez paramétré.
 
-Si vous avez une erreur, comparez le code avec celui du GitHub. Si il persiste, rendez-vous sur mon serveur Discord ci-dessous.
+Si vous avez une erreur, comparez le code avec celui du GitHub. S'il persiste, rendez-vous sur mon serveur Discord ci-dessous.
 
 
 ## ❓ Besoin d'aide ?

@@ -16,7 +16,7 @@ Vous pouvez donc dès à présent copier le code du `main.py` (je vous conseille
 
 ## ⚙ Test des commandes
 
-Une fois le code recopié, vous allez pouvoir tester les deux commandes. Rendez-vous donc sur un serveur discord où vous avez installé votre Bot *(voir cours n°1)*. Vous pourrez ensuite, dans n'importe quel salon, entrer les commandes.
+Une fois le code recopié, vous allez pouvoir tester la commande. Rendez-vous donc sur un serveur discord où vous avez installé votre Bot *(voir cours n°1)*. Vous pourrez ensuite, dans n'importe quel salon, entrer la commande.
 
 • `>commander` ⇨ ***Vous demande ce que vous voulez commander, suivez donc les instructions du message*** <br>
 

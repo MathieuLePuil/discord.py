@@ -36,7 +36,7 @@ Vous pouvez également me suggérer des fonctionnalités de Discord afin que j'a
 
 • `Mon discord` : https://discord.gg/EHbdMS9
 
-### 👏 Bravo, vous venez d'ajouter de récuperer la réponse à la question du bot. Dans la prochaine leçon, nous verrons le fonctionnement des events.
+### 👏 Bravo, vous venez d'ajouter des commandes de modération. Dans la prochaine leçon, nous verrons le fonctionnement des events.
 
 
 ---
